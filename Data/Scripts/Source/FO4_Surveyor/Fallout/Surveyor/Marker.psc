@@ -1,7 +1,7 @@
 Scriptname Fallout:Surveyor:Marker extends ObjectReference
 import Fallout
 import Fallout:Surveyor
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 
 UserLog Log

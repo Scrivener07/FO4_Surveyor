@@ -2,7 +2,7 @@ Scriptname Fallout:Surveyor:Map extends Papyrus:Project:Modules:Required
 import Fallout
 import Fallout:Surveyor
 import Papyrus:Collections
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 UserLog Log
 MarkerEntry[] Entries

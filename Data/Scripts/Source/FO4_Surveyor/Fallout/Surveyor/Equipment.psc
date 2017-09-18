@@ -1,6 +1,6 @@
 Scriptname Fallout:Surveyor:Equipment extends Papyrus:Project:Modules:Required
 import Fallout
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 
 UserLog Log

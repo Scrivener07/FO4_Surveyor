@@ -1,6 +1,6 @@
 Scriptname Fallout:Surveyor:Prompt extends ReferenceAlias Default
 import Fallout
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 import Papyrus:Script
 
 UserLog Log
